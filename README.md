@@ -18,7 +18,7 @@
 #### 3 ) Install GitHub Desktop- [Link](https://desktop.github.com/ "desktop.github.com")
 #### 4 ) Clone the [GitHub Respository for TETRIS](https://github.com/pratyush20102/TETRIS "TETRIS")
 #### 5 ) Copy the Local Path of the Folder TETRIS in your PC
-#### 6 ) Write the command `cd "path"` in Command Prompt where "path" is replaced by the Local Path copied in the 5th Step.
+#### 6 ) Write the command `cd "path"` in Command Prompt where "path" is replaced by the Local Path copied.
 #### 7 ) Write the command `main.py` and play the TETRIS Game !!
 ## Controls- TETRIS
 | **Key Pressed**      |    **Effect**      |
