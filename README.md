@@ -1,4 +1,7 @@
+[![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # TETRIS
+[![Python version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://www.python.org)
+[![Pygame version](https://img.shields.io/badge/pygame-2.0.1-yellow.svg)](http://pygame.org)
 ## Python Implementation of TETRIS Game using Pygame Package
 ## Requirements 
 #### Pygame 2.0+
