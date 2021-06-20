@@ -1,2 +1,2 @@
 # TETRIS
-TETRIS Game using Pygame Package in Python
+TETRIS Game using Pygame Package 
