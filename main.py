@@ -323,6 +323,8 @@ while not done:
         screen.blit(text_game_over, [20, 100])
 
     pygame.display.flip()
+    # Update the contents of the entire display
     clock.tick(fps)
+    # Decides the frame per seconds to be displayed
 
 pygame.quit()
