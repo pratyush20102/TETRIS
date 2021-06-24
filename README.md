@@ -44,7 +44,6 @@
 ### Completed 5 Lines (of which 2 are completed in one go)
 <img src="preview_screenshots/preview_3.png" width="400" >
 
-### Oops !! TETRIS Game is Over 
+### OOPS !! TETRIS Game is Over 
 <img src="preview_screenshots/preview_4.png" width="400" >
-
 
