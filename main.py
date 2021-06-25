@@ -43,13 +43,13 @@ class Figure:
 
     def image(self):
         """
-        Returns the Figure considering the type,current (clockwise) rotation and colour of figure picked
+        Returns the Figure considering the type,current (anti-clockwise) rotation and colour of figure picked
         """
         return self.figures[self.type][self.rotation]
 
     def rotate(self):
         """
-        Determines the number of clockwise rotations to be carried out in the figure
+        Determines the number of anti-clockwise rotations to be carried out in the figure
         """
         self.rotation = (self.rotation + 1) % len(self.figures[self.type])
 
@@ -191,7 +191,7 @@ class Tetris:
     def rotate(self):
         """
         Movement Function 4: Called when the player presses UP
-        Causes one clockwise rotation of the Figure in the field
+        Causes one anti-clockwise rotation of the Figure in the field
         """
         old_rotation = self.figure.rotation
         self.figure.rotate()
@@ -250,7 +250,7 @@ while not done:
             """
 
             if event.key == pygame.K_UP:
-                # Causes one clockwise rotation of the Figure
+                # Causes one anti-clockwise rotation of the Figure
                 game.rotate()
 
             if event.key == pygame.K_DOWN:
