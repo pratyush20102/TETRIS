@@ -19,8 +19,6 @@ class Figure:
     Starting off with the Figure class,our goal is to store the figure types together with the rotations
     where the main list contains figure types, and the inner lists contain their rotations.
     The numbers in each figure represent the positions in a 4x4 matrix where the figure is solid.
-    For example -> [1, 5, 9, 13] represents a vertical line
-    whereas its rotation [4, 5, 6, 7] represents a horizontal line.
     """
     x = 0
     y = 0
