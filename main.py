@@ -2,7 +2,7 @@ import pygame
 import random
 from pygame import mixer
 # Mixer library imported for implementation of the Sound Effects
-
+# 
 # This list contains RGB codes of all colours available in our TETRIS Game
 # Colour of figure will be chosen randomly from these options.
 colors = [
